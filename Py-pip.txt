@@ -1,0 +1,7 @@
+#pip-install library in CiraCore
+pip install numpy
+pip install opencv-python
+pip install opencv-contrib-python
+
+#MySQL Driver
+python -m pip install mysql-connector-python
